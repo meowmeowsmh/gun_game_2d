@@ -1,0 +1,6 @@
+level0_data.csv
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+note_for_me_update.md

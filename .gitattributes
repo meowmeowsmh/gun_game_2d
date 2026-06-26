@@ -9,4 +9,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 #ignore the code for me
-note_for_me_update.md
+*.md
+!README.md
