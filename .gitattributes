@@ -8,3 +8,5 @@ __pycache__/
 # Ignore system junk
 .DS_Store
 Thumbs.db
+#ignore the code for me
+note_for_me_update.md
