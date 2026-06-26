@@ -1,0 +1,10 @@
+# Ignore the buggy level 0
+level0_data.csv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system junk
+.DS_Store
+Thumbs.db
